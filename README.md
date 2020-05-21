@@ -4,6 +4,8 @@
 
 ## 下载Apk
 
+[点击下载](https://github.com/xianfei/pyqAntifoldInput/raw/master/app/release/app-release.apk)
+
 见Release
 
 ## 说明
